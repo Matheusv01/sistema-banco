@@ -1,0 +1,7 @@
+# Arquivos de compilação
+*.class
+out/
+
+# Configurações de IDE (IntelliJ)
+.idea/
+*.iml
